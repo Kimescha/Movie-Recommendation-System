@@ -8,5 +8,5 @@ In such cases, users are able to easily provide feedback with a simple click of 
 in which users select numerical values from a specific evaluation system (e.g., five-star rating system)
 that specify their likes and dislikes of various items.
 
-In this document I'm trying to give an introduction to how to create a simple movie recommendation system (collaborative and content-based)
+In this project I'm trying to give an introduction to how to create a simple movie recommendation system (collaborative and content-based)
 while explaining the integral role of linear algebra and machine learning in this process.
